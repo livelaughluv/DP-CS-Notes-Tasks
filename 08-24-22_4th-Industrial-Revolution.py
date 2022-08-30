@@ -24,5 +24,5 @@ while (answer == "empty"):
   elif(userchoice == "3"):
     print("PROMPT 3")
   else:
-    print("That's not a prompt, silly!")
+    print("That's not one of the choices, silly!")
     answer = "empty"
