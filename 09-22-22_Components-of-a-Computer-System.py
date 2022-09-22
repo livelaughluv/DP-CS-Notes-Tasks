@@ -52,17 +52,17 @@ while (answer == "empty"):
   elif(userchoice == "11"):
     print("A client is ")
   elif(userchoice == "12"):
-    print("A thin client is ")
+    print("A thin client is a virtual desktop computing model, meaning that most computing resources are stored on and accessed form a central server and not from the physical device. Thin clients are more secure than thick clients because they are more secure, but are dependable on a continuous network connection.")
   elif(userchoice == "13"):
-    print("A thick client is ")
+    print("A thick client is a networked computer system, meaning that most computing resources are installed locally on a physical device rather than distributed over a network. Most company computers are thick clients because it allows employees to work offline. However, it isn't the best for security.")
   elif(userchoice == "14"):
     print("A zero client is ")
   elif(userchoice == "15"):
-    print("An email server is ")
+    print("An email server is a computer system that sends and receives emails.")
   elif(userchoice == "16"):
-    print("A router is ")
+    print("A router allows devices to connect to the internet and share data. It passes information between one or more computer networks. One a packet arrives at a router, the router identifies the packet's destination and calculates the best way for it to get there.")
   elif(userchoice == "17"):
-    print("A DNS (Domain Name System) server is ")
+    print("A DNS (Domain Name System) server is a naming database that locates and translates internet domain names into IP addresses.")
   elif(userchoice == "18"):
     print("A firewall is a hardware or software network infrastructure that controls data flow access among network entities. The firewall is mainly used to offer protection and limit access to a network. The ideal firewall system configuration consists of hardware and software components.")
   elif(userchoice == "19"):
