@@ -1,22 +1,22 @@
-print("""System testing
+print("""Software testing
 - MENU -
 `````````
 Please choose one of the options below, and press enter.
-1) debugging
-2) validation vs verification
-3) testing & types of testing:
-  3a. dry-run
-  3b. functional
-  3c. unit
-  3d. integration
-  3e. user acceptance
-  3f. alpha
-  3g. beta
-4) types of data used in testing:
-  4a. normal
-  4b. at the limits
-  4c. extreme
-  4d. abnormal
+1) Debugging
+2) Validation vs Verification
+3) Testing & Types of Testing:
+  3a. Dry-run
+  3b. Functional
+  3c. Unit
+  3d. Integration
+  3e. User acceptance
+  3f. Alpha
+  3g. Beta
+4) Types of data used in testing:
+  4a. Normal
+  4b. At the limits
+  4c. Extreme
+  4d. Abnormal
 """)
 
 answer = "empty"
