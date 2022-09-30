@@ -48,15 +48,15 @@ while (answer == "empty"):
   elif(userchoice == "9"):
     print("Human resources are the people who are part of (or could be part of) an organization, business, or economy.")
   elif(userchoice == "10"):
-    print("A dumb terminal is ")
+    print("A dumb terminal is a very simple monitor with very little processing power.")
   elif(userchoice == "11"):
-    print("A client is ")
+    print("A client is a computer that connects to and uses the resources of a remote computer or server.")
   elif(userchoice == "12"):
     print("A thin client is a virtual desktop computing model, meaning that most computing resources are stored on and accessed form a central server and not from the physical device. Thin clients are more secure than thick clients because they are more secure, but are dependable on a continuous network connection.")
   elif(userchoice == "13"):
     print("A thick client is a networked computer system, meaning that most computing resources are installed locally on a physical device rather than distributed over a network. Most company computers are thick clients because it allows employees to work offline. However, it isn't the best for security.")
   elif(userchoice == "14"):
-    print("A zero client is ")
+    print("A zero client is server-based computing model where the end user's computing device has no local device.")
   elif(userchoice == "15"):
     print("An email server is a computer system that sends and receives emails.")
   elif(userchoice == "16"):
@@ -66,7 +66,7 @@ while (answer == "empty"):
   elif(userchoice == "18"):
     print("A firewall is a hardware or software network infrastructure that controls data flow access among network entities. The firewall is mainly used to offer protection and limit access to a network. The ideal firewall system configuration consists of hardware and software components.")
   elif(userchoice == "19"):
-    print("A client-server is ")
+    print("A client-server is a relationship in which one program (the client) requests a service or resource from another program (the server).")
   else:
     print("That's not one of the options, silly!")
     answer = "empty"
