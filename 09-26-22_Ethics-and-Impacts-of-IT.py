@@ -33,11 +33,9 @@ For each, what are some of the effects (pros & cons) of some of these advancemen
          - Allows a lot of cheating
          - A lot of cheating
 2. Photomath
-         - Allows kids like me who have a really shitty math teacher actually learn math
+         - Allows kids to expand their math skills
          - Allows for a monopoly and requiring pay
          - Allows for cheating
-         - Lots of cheating
-         - Gets math done easier
          - Kids will become reliant""")
     print("")
     print(""" """)
